@@ -1,0 +1,6 @@
+ADNSimple:  ['A', 'T', 'G', 'A', 'C', 'A', 'T', 'A', 'A']
+ADNDoble:   ['AT', 'TA', 'GC', 'AT', 'CG', 'AT', 'TA', 'AT', 'AT']
+ARNt:   ['A', 'U', 'G', 'A', 'C', 'A', 'U', 'A', 'A']
+Proteinas:   [['Thr']]
+ADNBasura:   []
+ARNBasura:   []

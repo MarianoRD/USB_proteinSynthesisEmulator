@@ -1,0 +1,6 @@
+ADNSimple:  []
+ADNDoble:   []
+ARNt:   []
+Proteinas:   []
+ADNBasura:   []
+ARNBasura:   []
